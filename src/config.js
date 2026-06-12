@@ -21,31 +21,31 @@ export const config = {
   story: [
     {
       id: 1,
-      date: "Tuesday at 6:29 PM",
-      title: "First message in Facebook",
+      date: "Mardi à 18h29",
+      title: "Premier message sur Facebook",
       description: "Le tout premier message échangé entre nous.",
-      image: "/fb.jpg" // Place ton image facebook dans le dossier 'public' sous le nom 'fb.jpg'
+      image: "/fb.jpeg"
     },
     {
       id: 2,
-      date: "Wednesday 7:48 PM",
-      title: "First message in Instagram",
+      date: "Mercredi à 19h48",
+      title: "Premier message sur Instagram",
       description: "Quand la conversation s'est poursuivie sur Instagram.",
-      image: "/insta.jpg" // Place ton image instagram dans le dossier 'public' sous le nom 'insta.jpg'
+      image: "/insta.jpeg"
     },
     {
       id: 3,
       date: "BOLBOLTI ♥",
-      title: "First nickname from me",
+      title: "Mon premier surnom pour toi",
       description: "Le premier surnom que je t'ai donné.",
-      image: "/wa.jpg" // Place ton image whatsapp dans le dossier 'public' sous le nom 'wa.jpg'
+      image: "/wa.jpeg"
     },
     {
       id: 4,
       date: "CHAIMOUTI ♥",
-      title: "First nickname for my love",
+      title: "Ton premier surnom pour moi",
       description: "Le magnifique surnom pour mon amour.",
-      image: "/wa.jpg" // J'ai utilisé la même image WhatsApp ici, tu peux la changer si besoin !
+      image: "/wa.jpeg"
     }
   ],
 
